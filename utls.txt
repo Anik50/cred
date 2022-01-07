@@ -1,0 +1,4 @@
+kubernetes url: https://18.140.116.110:31100/
+jenkins url: http://18.140.116.110:8080/
+             id: admin
+	     pass: O$i7lr
